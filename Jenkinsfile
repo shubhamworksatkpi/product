@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Deploying in SIT to move to UAT....'
-..'
+
             }
         }
         stage('Test') {
