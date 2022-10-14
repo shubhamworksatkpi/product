@@ -4,18 +4,18 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Deploying in SIT to move to UAT....'
+                echo 'Deploying in UAT to move to PROD....'
 ..'
             }
         }
         stage('Test') {
             steps {
-                echo 'Deploying in SIT to move to UAT....'
+                echo 'Deploying in UAT to move to PROD....'
             }
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying in SIT to move to UAT....'
+                echo 'Deploying in UAT to move to PROD....'
             }
         }
     }
