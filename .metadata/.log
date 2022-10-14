@@ -936,3 +936,9 @@ Caused by: java.io.IOException: Could not rename file D:\repository\product\.met
 	at org.eclipse.jgit.util.FileUtils.rename(FileUtils.java:324)
 	at org.eclipse.jgit.dircache.DirCacheCheckout.checkoutEntry(DirCacheCheckout.java:1562)
 	... 11 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-13 20:26:55.782
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-13 20:26:55.795
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
