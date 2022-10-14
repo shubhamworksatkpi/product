@@ -5,4 +5,3 @@ INDEX VERSION 1.131+D:\repository\product\.metadata\.plugins\org.eclipse.jdt.cor
 1865797976.index
 2961337990.index
 3869955052.index
-1605928495.index
